@@ -1,2 +1,15 @@
-# Healthcare-CRM-Project
-CRM Project Idea – Problem Statement, Overview, and Objectives
+# Healthcare CRM Project
+
+## Problem Statement  
+Hospitals and clinics often struggle with managing patient appointments, medical records, and follow-ups efficiently...
+
+## Project Overview  
+We propose building a Healthcare CRM Solution that manages patient data, appointments, and communication...
+
+## Objectives  
+1. Improve efficiency  
+2. Automate tasks  
+3. Ensure data accuracy  
+4. Enhance patient experience  
+5. Better reporting
+
