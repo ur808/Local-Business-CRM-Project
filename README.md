@@ -31,19 +31,19 @@ We propose a **Local Business Service CRM** that connects customers with trusted
 
 ## 🚀 Project Phases
 
-Phase 1: Problem Understanding & Industry Analysis
+📌 Phase 1: Problem Understanding & Industry Analysis
 
-Problem Understanding & Industry Research
+~Problem Understanding & Industry Research
 
-Requirement Gathering
+~Requirement Gathering
 
-Stakeholder Analysis
+~Stakeholder Analysis
 
-Business Process Mapping
+~Business Process Mapping
 
-Industry-Specific Use Case Analysis
+~Industry-Specific Use Case Analysis
 
-AppExchange Exploration
+~AppExchange Exploration
 
 Phase 2: Org Setup & Configuration
 
