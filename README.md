@@ -19,4 +19,5 @@ We propose a **Local Business Service CRM** that connects customers with trusted
 - **Enhance user experience** – Trusted providers, easy booking, and faster response.  
 - **Better reporting** – Insights into demand, service quality, and provider performance.  
 
-
+📌 Phase 10: Final Presentation & Demo Day Completed
+https://drive.google.com/file/d/1QOXpxajLYySRYnrhge09HXErqLwKmngY/view?usp=sharing 
