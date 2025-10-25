@@ -156,6 +156,7 @@ We propose a **Local Business Service CRM** that connects customers with trusted
 📌 Phase 9: Reporting, Dashboards & Security Review
 
 ~Reports (Tabular, Summary, Matrix, Joined)
+
 ~Report Types
 ~Dashboards
 ~Dynamic Dashboards
