@@ -45,6 +45,8 @@ We propose a **Local Business Service CRM** that connects customers with trusted
 
 ~AppExchange Exploration
 
+---
+
 📌 Phase 2: Org Setup & Configuration
 
 ~Salesforce Editions
@@ -75,6 +77,8 @@ We propose a **Local Business Service CRM** that connects customers with trusted
 
 ~Deployment Basics
 
+---
+
 📌 Phase 3: Data Modeling & Relationships
 
 ~Standard & Custom Objects
@@ -95,6 +99,8 @@ We propose a **Local Business Service CRM** that connects customers with trusted
 
 ~External Objects
 
+---
+
 📌 Phase 4: Process Automation (Admin)
 
 ~Validation Rules
@@ -112,6 +118,8 @@ We propose a **Local Business Service CRM** that connects customers with trusted
 ~Field Updates
 
 ~Custom Notifications
+
+---
 
 📌 Phase 5: Apex Programming (Developer)
 
@@ -131,6 +139,7 @@ We propose a **Local Business Service CRM** that connects customers with trusted
 
 ~Test Classes
 
+---
 
 📌 Phase 6: User Interface Development
 
@@ -156,6 +165,8 @@ We propose a **Local Business Service CRM** that connects customers with trusted
 
 ~Navigation Service
 
+---
+
 📌 Phase 7: Integration & External Access
 
 ~Named Credentials
@@ -174,6 +185,7 @@ We propose a **Local Business Service CRM** that connects customers with trusted
 
 ~OAuth & Authentication
 
+---
 
 📌 Phase 8: Data Management & Deployment
 
@@ -192,6 +204,8 @@ We propose a **Local Business Service CRM** that connects customers with trusted
 ~ANT Migration Tool
 
 ~VS Code & SFDX
+
+---
 
 📌 Phase 9: Reporting, Dashboards & Security Review
 
@@ -212,6 +226,8 @@ We propose a **Local Business Service CRM** that connects customers with trusted
 ~Login IP Ranges
 
 ~Audit Trail
+
+---
 
 📌 Phase 10: Final Presentation & Demo Day Completed
 
